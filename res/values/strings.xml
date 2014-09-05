@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TpAssignment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_user">AddUser</string>
+    <string name="title_activity_view_some_data">ViewSomeData</string>
+    <string name="title_activity_view_all_data">ViewAllData</string>
+
+</resources>
